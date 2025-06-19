@@ -33,7 +33,7 @@ This project investigates how hierarchical features extracted from a convolution
   - Transformed to a time series
   - Used in voxel-wise GLM and reverse analysis
 
-![Dataset Overview](./Paper/Figure_Dataset.png)
+![CNN Model & GLM Overview](./Paper/CNN_and_GLM.png)
 
 ---
 
@@ -47,6 +47,8 @@ This project investigates how hierarchical features extracted from a convolution
 - Activation patterns shift anteriorly and laterally with increasing layer depth.
 - Deep-layer features correlate with high-level perceptual and social brain areas.
 
+![Brain Regions Activated](./Paper/Brain_Regions_Activated.png)
+
 ---
 
 ## 🔁 Reverse Analysis Insights
@@ -56,8 +58,8 @@ This project investigates how hierarchical features extracted from a convolution
 - **Lateral Occipital Complex**: Associated with higher-order visual processing related to object recognition.
 - **Supramarginal Gyrus**: Associated with facial expression and social scenes in Layer 13.
 
-![Dataset Overview](./Paper/Figure_Dataset.png)
-![Dataset Overview](./Paper/Figure_Dataset.png)
+![PCC and Visual Cortex](./Paper/PCC_and_Visual_Cortex.png)
+![LOC and STS](./Paper/LOC_and_STS.png)
 
 ---
 
