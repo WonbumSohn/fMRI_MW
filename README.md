@@ -2,7 +2,8 @@
 
 This project investigates how hierarchical features extracted from a convolutional neural network (CNN), specifically VGG-16, correspond to brain activations recorded via fMRI when participants watch a movie  (a Pixar animated movie). The study bridges deep learning and neuroscience, exploring whether low- and high-level visual features align with specific brain regions.
 
-> 🧪 Reference: Sohn, W., Di, X., Liang, Z., Zhang, Z., & Biswal, B. (2024). “Explorations of using a convolutional neural network to understand brain activations during movie watching.” *Psychoradiology*, 4, 2024. [https://doi.org/10.1093/psyrad/kkae021](https://doi.org/10.1093/psyrad/kkae021)
+> 🧪 Reference: Sohn, W., Di, X., Liang, Z., Zhang, Z., & Biswal, B. (2024). “Explorations of using a convolutional neural network to understand brain activations during movie watching.” *Psychoradiology*, 4, 2024.
+> [https://doi.org/10.1093/psyrad/kkae021](https://doi.org/10.1093/psyrad/kkae021)
 
 ---
 
@@ -71,7 +72,8 @@ This project investigates how hierarchical features extracted from a convolution
 
 ## 📄 Citation
 
-Sohn, W., Di, X., Liang, Z., Zhang, Z., & Biswal, B. (2024). “Explorations of using a convolutional neural network to understand brain activations during movie watching.” *Psychoradiology*, 4, 2024. [https://doi.org/10.1093/psyrad/kkae021](https://doi.org/10.1093/psyrad/kkae021)
+Sohn, W., Di, X., Liang, Z., Zhang, Z., & Biswal, B. (2024). “Explorations of using a convolutional neural network to understand brain activations during movie watching.” *Psychoradiology*, 4, 2024.
+[https://doi.org/10.1093/psyrad/kkae021](https://doi.org/10.1093/psyrad/kkae021)
 
 ---
 
